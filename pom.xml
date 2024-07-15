@@ -77,7 +77,7 @@
     <build>
             <finalName>my-web-application</finalName>
         <plugins>
-            <! -- Sonar Scanner Plugin -->
+            
             <plugin>
                 <groupId>org.sonarsource.scanner.maven</groupId>
                 <artifactId>sonar-maven-plugin</artifactId>
