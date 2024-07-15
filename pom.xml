@@ -10,7 +10,7 @@
 
         <name>my-web-application</name>
 
-    <description>Maven Web Application for Java Project</descrihttp://18.140.69.249:9000/ption>
+    <description>Maven Web Application for Java Project</description>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
